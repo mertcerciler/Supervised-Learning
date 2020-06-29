@@ -197,8 +197,8 @@ class ann_with_lr:
 #main (we are initilazing and calling the classes below).
         
 #reading datasets and seperate them into inputs and outputs.    
-f_training = open("train1.txt", "r")
-f_test = open("test1.txt", "r")
+f_training = open("../data/train1.txt", "r")
+f_test = open("../data/test1.txt", "r")
 x_train, y_train = reading_datasets(f_training)
 x_test, y_test = reading_datasets(f_test)
 
