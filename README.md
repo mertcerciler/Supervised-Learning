@@ -32,4 +32,6 @@ While finding the best configuration, ANN with single hidden layer with 2,4,8,16
 <img src="/img/traning_16.png">
 <img src="/img/traning_32.png">
 
-	Below table shows the training loss, test loss, training loss over test loss and standard deviation. 
+Below table shows the training loss, test loss, training loss over test loss and standard deviation. 
+
+<img src ="/img/table.png">
